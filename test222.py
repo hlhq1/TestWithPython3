@@ -48,8 +48,6 @@ print('Tuple:')
 tup1 = (1, 2, 3)
 print(tup1)
 
-
-
 # Dictionary: can modify
 print()
 print('Dictionary:')
